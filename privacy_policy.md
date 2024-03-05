@@ -8,7 +8,6 @@ We collect the following types of information.
 
 Information you provide us directly:
 
-Your name and questions.
 
 Analytics information:
 
@@ -31,6 +30,10 @@ Device identifiers:
 When Users use a mobile device like a tablet or phone to access our Application, Company may access, collect, monitor, store on your device, and/or remotely store one or more "device identifiers." Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device's operating system or other software, or data sent to the device by company.
 
 A device identifier may deliver information to us or to a third party partner about how you browse and use the Application and may help Company or others provide reports or personalized content and ads. Some features of the Application may not function properly if use or availability of device identifiers is impaired or disabled.
+
+User Selected Photos:
+
+The photos we upload to make the application work are stored for as long as you want.
 
 2. USE OF YOUR PERSONAL INFORMATION
 
